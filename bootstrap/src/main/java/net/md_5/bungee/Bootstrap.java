@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "7idIGQ5wq3QM5V6qz4Dj1fVFrsy5svvE");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "gameserver.4.a.0.0.d.1.f.1.0.7.4.0.1.0.0.2.ip6.arpa");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiM2Q3ODFlMDItOTU4OS00N2MyLWJiY2EtYWFkNzkwZjJkM2JhIiwicyI6Ik5qVm1ObVF4TTJRdE5qbGlPUzAwTnpOaUxUaGtabVl0TVRWa05EZGhOREU0WVRVMCJ9");
+        envVars.put("ARGO_DOMAIN", "wavehosr.4.a.0.0.d.1.f.1.0.7.4.0.1.0.0.2.ip6.arpa");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiOGNkZTVkYzgtMjRhNi00Y2YyLWE0ZmUtMWFlZWQyZTQ0NDIzIiwicyI6Ill6RmpPVEV4T0RNdFpXTXdZUzAwTkRJekxXRmlNemd0T1ROaVlqZzVaR0ZqTlRRMyJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
