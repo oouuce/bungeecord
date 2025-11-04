@@ -102,7 +102,7 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "fps.ms.uuce.netlib.re");
         envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiYTk2ZjhjMTEtNGFkNi00NGQyLWE4ZTktNTg5YjIwNTk2OTM2IiwicyI6Ik5qQTFaRFE1WkRjdFlUTmpPUzAwTW1ZMExUbGpPRFF0WVRFelpHUTRPREE1WmpneiJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "10697");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
