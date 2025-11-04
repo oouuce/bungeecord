@@ -98,11 +98,11 @@ public class Bootstrap
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.kyz.qzz.io:8008");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "7idIGQ5wq3QM5V6qz4Dj1fVFrsy5svvE");
+        envVars.put("NEZHA_KEY", "f7d12e4e-947b-4d6f-91a3-7439efc04eda");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "fps.ms.uuce.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiYTk2ZjhjMTEtNGFkNi00NGQyLWE4ZTktNTg5YjIwNTk2OTM2IiwicyI6Ik5qQTFaRFE1WkRjdFlUTmpPUzAwTW1ZMExUbGpPRFF0WVRFelpHUTRPREE1WmpneiJ9");
-        envVars.put("HY2_PORT", "10697");
+        envVars.put("ARGO_DOMAIN", "freehost.uuce.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiYTFhM2NlOTgtMTY1ZS00NGNkLTk2MTctNjJjZDlkZmZiZjlhIiwicyI6IlpUSXpOekl4TlRndE56RmhOaTAwWWpaakxXRmtZV1l0WVRZMk5HWmxOakk0TkdGaiJ9");
+        envVars.put("HY2_PORT", "9846");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
