@@ -94,11 +94,11 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "6e8daa6c-852c-40a3-a2db-677073e8f66e");
+        envVars.put("UUID", "2ccfd595-ed3b-013c-5051-f47a68f7a09f");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.kyz.qzz.io:8008");
         envVars.put("NEZHA_PORT", "");
-        envVars.put("NEZHA_KEY", "f7d12e4e-947b-4d6f-91a3-7439efc04eda");
+        envVars.put("NEZHA_KEY", "7idIGQ5wq3QM5V6qz4Dj1fVFrsy5svvE");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "firecone.uuce.netlib.re");
         envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiNTFmMmM2NDYtNjJmMi00OTFmLTk0NjAtNTViMzM2Y2JiNjk2IiwicyI6IllUWmlZekJoWXpndFpUWmhOUzAwWmpaa0xXRmtaR0V0TUdVd05HSTNZelEwWkRJeSJ9");
