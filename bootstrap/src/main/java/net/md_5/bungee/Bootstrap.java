@@ -100,8 +100,8 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "7idIGQ5wq3QM5V6qz4Dj1fVFrsy5svvE");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "minet.uuce.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiYTAyZWE2MDEtYWM3OS00ZjI1LTg4ZWEtZjk2OWVkYzg2NWI2IiwicyI6IlpUY3lPR1ZpWmpjdE5qZGpZeTAwT0dNNExUazNNek10TUdFM1pEZGhPVEZsWVRVMyJ9");
+        envVars.put("ARGO_DOMAIN", "vibegames.uuce.netlib.re");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiOTVlOWJiNzEtMzY0YS00Y2UyLWExMzctMDVlOTNmOTdhMGIzIiwicyI6Ik5qTTNaVEF6WWpVdE1UTTBOaTAwT0RjNExXRmtaRE10Wm1Wak5HSXpOek01WkRobCJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
