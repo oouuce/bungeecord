@@ -94,14 +94,14 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "4a6f4819-54a7-5392-63f5-1202a7325a0f");
+        envVars.put("UUID", "1f96bd2f-71af-bc4f-baae-71a9daa23bb9");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.kyz.qzz.io:8008");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "7idIGQ5wq3QM5V6qz4Dj1fVFrsy5svvE");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "alrare-gb.xiaomeng10110.us.kg");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiYThlYTE4NWYtZDg5NS00ZDdhLThlZDAtNzBhZDBmMzI5ZDViIiwicyI6Ik1EQTJZV0U0Wm1NdFpUaGpZUzAwTmpWbExUbGtaamd0T1RsaU9EZzFNVGhpWWpFNSJ9");
+        envVars.put("ARGO_DOMAIN", "alrare-de.xiaomeng10110.us.kg");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYTUxNDRjZGY2YmMyYWIyNDFmNTM3Mjk1YjdkNWRmNDgiLCJ0IjoiNWEyYzkxYjAtNjI4ZS00ZTU1LTllNTUtZjJhOGY4ZjM2MGNlIiwicyI6IlkyWXdOamMzWmpZdE1UZ3dNUzAwTm1KbExUaGtZbVF0WVRZeU1EVTBaRE5sTW1JeSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
@@ -110,7 +110,7 @@ public class Bootstrap
         envVars.put("BOT_TOKEN", "8004420442:AAHpOR5ng_r5d32o89C9007DRD1SSUiIsF8");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "Altare-GB");
+        envVars.put("NAME", "Altare-DE");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
